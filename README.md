@@ -30,6 +30,10 @@ node_filesystem_avail_bytes{fstype!~"tmpfs|overlay|squashfs"}
 
 <img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/1dded2cd-ef98-4416-b5c5-0dc273a9bd3e" />
 
+<img width="1887" height="552" alt="image" src="https://github.com/user-attachments/assets/d0d99577-b08f-4fd5-8d81-7b7361de9a30" />
+
+<img width="1087" height="723" alt="image" src="https://github.com/user-attachments/assets/cf20fb96-21fa-4717-a0a4-0d7c7bc78830" />
+
 
 # 4
 
