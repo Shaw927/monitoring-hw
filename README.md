@@ -1,3 +1,43 @@
+# 1
+
+<img width="980" height="648" alt="image" src="https://github.com/user-attachments/assets/ac222a88-4035-402f-8efc-9f81fb3c88c4" />
+
+<img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/759c12d4-00a2-487d-9127-cfeaa38fbea8" />
+
+
+# 2
+
+100 - (avg by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)
+
+node_load1 node_load5 node_load15
+
+node_memory_MemAvailable_bytes node_memory_MemFree_bytes
+
+node_filesystem_avail_bytes{fstype!~"tmpfs|overlay|squashfs"}
+
+<img width="1905" height="772" alt="image" src="https://github.com/user-attachments/assets/6421d126-4b66-4ec0-b183-5e61613af48b" />
+
+
+# 3
+
+<img width="1280" height="328" alt="image" src="https://github.com/user-attachments/assets/e4306a4b-7e35-4df8-b7e4-2dc1824455aa" />
+
+<img width="957" height="737" alt="image" src="https://github.com/user-attachments/assets/65ff5f44-60eb-4f53-b8f6-740b35da855c" />
+
+<img width="1068" height="648" alt="image" src="https://github.com/user-attachments/assets/5152afd3-2b78-4bc0-9b33-6ea942ef4fcb" />
+
+<img width="1067" height="735" alt="image" src="https://github.com/user-attachments/assets/f1f9fc94-3b60-495b-8aa6-3049a3c5fc33" />
+
+<img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/1dded2cd-ef98-4416-b5c5-0dc273a9bd3e" />
+
+
+# 4
+
+лежит в директории prometheus/dashboards
+
+
+
+
 # monitoring-hw
 # 1
 **Вас пригласили настроить мониторинг на проект. На онбординге вам рассказали, что проект представляет из себя платформу для вычислений с выдачей текстовых отчетов, которые сохраняются на диск. Взаимодействие с платформой осуществляется по протоколу http. Также вам отметили, что вычисления загружают ЦПУ. Какой минимальный набор метрик вы выведите в мониторинг и почему?**
